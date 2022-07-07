@@ -1,185 +1,317 @@
 {
-  "productData": [
+  "users": [
     {
-      "id": 1,
-      "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11948298/2022/3/24/ba4a8e4a-8e7b-4bfe-9ea2-fd5693598f931648115076887-Roadster-Men-Grey-Melange-T-shirt-8701648115076447-1.jpg",
-      "title": "Tshirt Roadster",
-      "desc": "Pure cotton",
-      "price": 599,
-      "catog":"men",
-      "color":"white"
-
-  },
-  {
-      "id": 2,
-      "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7546900/2019/1/24/c9be0d6e-30a4-4242-b4e0-1c166b73f2781548320874402-HERENOW-Men-Polo-Collar-T-shirt-4861548320873235-1.jpg",
-      "title": "Puma One",
-      "desc": "Pure cotton with poly",
-      "price": 499,
-      "catog":"men",
-      "color":"blue"
-
-  },
-  {
-      "id": 3,
-      "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1700871/2020/1/22/f932ae44-0fb8-4b92-b7bc-f1756253294b1579692118186-HRX-by-Hrithik-Roshan-Men-Teal-Blue-Printed-T-shirt-90515796-1.jpg",
-      "title": "Reebook Blend",
-      "desc": "nice one to comfort",
-      "price": 589,
-      "catog":"men",
-      "color":"blue"
-
-  },
-  {
-      "id": 4,
-      "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17395060/2022/4/1/0b0397df-5568-4881-a4b1-8a27e1ac4cc01648814581172-one8-x-PUMA-Men-Tshirts-5551648814580765-1.jpg",
-      "title": "Tshirt Raymond",
-      "desc": "good for sunburn",
-      "price": 1099,
-      "catog":"men",
-      "color":"blue"
-
-  },
-  {
-      "id": 5,
-      "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13343914/2021/3/31/ee8be01b-833b-4c3d-b855-9a0b462a8b8e1617186571707-Mast--Harbour-Men-Blue-Solid-Round-Neck-T-shirt-719161718657-1.jpg",
-      "title": "Polywind shirt",
-      "desc": "Collection of wind",
-      "price": 299,
-      "catog":"men",
-      "color":"white"
-
-  },
-  {
-      "id": 6,
-      "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11487304/2020/7/14/a27a99f8-c573-47b4-b00a-6af20319b8c91594704274509-Nautica-Men-Tshirts-8571594704272476-1.jpg",
-      "title": "Tshirt Fablors",
-      "desc": "Besides sea",
-      "price": 199,
-      "catog":"men",
-      "color":"blue"
-
-  },
-  {
-    "id": 7,
-    "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/10356859/2019/8/8/b783aef9-c902-462e-af73-de159bfd011c1565256752191-Libas-Women-Kurta-Sets-2081565256750830-1.jpg",
-    "title": "Women Kurti",
-    "desc": "Norway dressing style",
-    "price": 999,
-    "catog":"women",
-    "color":"pink"
-
-},
-{
-  "id": 8,
-  "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/productimage/2020/9/16/e698b1e1-07d3-446d-987f-bc8a75db18f91600207614701-2.jpg",
-  "title": "Designer Frock",
-  "desc": "Eastern wear",
-  "price": 1999,
-  "catog":"women",
-  "color":"red"
-
-},
-{
-  "id": 9,
-  "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/13764318/2021/4/7/c6a16eb7-833d-4df2-8e0e-cb694a8a83e51617792817180-Varanga-Peach-Bandhani-Printed-Embroidered-Kurta-69516177928-1.jpg",
-  "title": "Vargana Women Mouve",
-  "desc": "Comfortable wear",
-  "price": 1599,
-  "catog":"women",
-  "color":"red"
-
-},
-{
-  "id": 10,
-  "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17241820/2022/2/22/6826eb82-a889-4550-9729-7c638a6d82241645516346563KALINIWomenWhiteDyedFlaredSleevesQuirkyAnarkaliKurta1.jpg",
-  "title": "Anarkali Kurta",
-  "desc": "Middle western style",
-  "price": 299,
-  "catog":"women",
-  "color":"white"
-
-},
-{
-  "id": 11,
-  "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17481680/2022/3/11/605468c3-dcb2-4f4f-b595-68dd3e8c4f731646979077807SochWomenGreenStripedFlaredSleevesMirrorWorkAnarkaliKurta1.jpg",
-  "title": "Best Women Kurti",
-  "desc": "Norway east dressing style",
-  "price": 1299,
-  "catog":"women",
-  "color":"white"
-
-},
-{
-  "id": 12,
-  "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14951330/2022/2/16/ccc5bd1a-5515-41b9-b1c5-14069b4958d91645010770483-Ahalyaa-Women-Beige-Floral-Printed-Regular-Gotta-Patti-Kurta-2.jpg",
-  "title": "Ahlaya Kurti Set",
-  "desc": "A western culture dress",
-  "price": 4999,
-  "catog":"women",
-  "color":"white"
-
-},
-{
-  "id": 13,
-  "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17883396/2022/4/14/5468cf75-f0fc-4589-ad1b-cb6bb397d4d21649905638063CottonT-shirtdress1.jpg",
-  "title": "cotton tshirt",
-  "desc": "A cotton means comfort",
-  "price": 489,
-  "catog":"kids",
-  "color":"white"
-
-},
-{
-  "id": 14,
-  "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18037712/2022/4/26/30be8e31-db9c-4373-8ac6-1af350edb4531650961173407OversizedT-shirt1.jpg",
-  "title": "pure cotton tshirt",
-  "desc": "comfortable wear",
-  "price": 589,
-  "catog":"kids",
-  "color":"blue"
-
-},
-{
-  "id": 15,
-  "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17810490/2022/4/8/e6e08133-7e6d-41a6-9cf4-1811cb65d9101649394344338OversizedT-shirt1.jpg",
-  "title": "White tshirt",
-  "desc": "A cotton means comfort",
-  "price": 2489,
-  "catog":"kids",
-  "color":"white"
-
-},
-{
-  "id": 16,
-  "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17842496/2022/4/11/93d25581-28eb-4ffb-b28e-248455cabec81649650407932Patternedjerseydress1.jpg",
-  "title": "Frock",
-  "desc": "A cotton means comfort",
-  "price": 489,
-  "catog":"kids",
-  "color":"blue"
-
-},
-{
-  "id": 17,
-  "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18254904/2022/5/15/34d61dff-9057-4345-bb23-ee85a3879c621652571725490PrintedT-shirt1.jpg",
-  "title": "Blue Printed tshirt",
-  "desc": "A cotton means comfort",
-  "price": 2489,
-  "catog":"kids",
-  "color":"white"
-
-},
-{
-  "id": 18,
-  "img": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/17810286/2022/4/8/1ad9300f-786d-44b4-baad-67010cfd74071649401086115Jerseyshorts1.jpg",
-  "title": "blue play tshirt",
-  "desc": "A cotton means comfort",
-  "price": 599,
-  "catog":"kids",
-  "color":"blue"
-
-}
+      "id": "f529a9c7-b5bb-4d3c-a451-825c03b12013",
+      "isActive": true,
+      "imageUrl": "https://picsum.photos/200/300?random=1",
+      "name": "Jatin Sharma",
+      "email": "jatin@admin.com",
+      "password": "Demo@admin1",
+      "phone": "+1 (977) 521-4",
+      "isVip": false,
+      "money": 1106.0865000000001,
+      "isAdmin": true
+    },
+    {
+      "id": "c3cd55ff-03e8-4e06-b4ee-fab89847958c",
+      "isActive": true,
+      "imageUrl": "https://picsum.photos/200/300?random=2",
+      "name": "Tami Carlson",
+      "email": "tamicarlson@caxt.com",
+      "password": "a@a.a",
+      "phone": "+1 (988) 494-2020",
+      "isVip": false,
+      "money": 510,
+      "isAdmin": false
+    },
+    {
+      "id": "c5a4e854-9689-4eb0-979a-12212d838d2b",
+      "isActive": true,
+      "imageUrl": "https://picsum.photos/200/300?random=3",
+      "name": "Rosemarie Schneider",
+      "email": "rosemarieschneider@caxt.com",
+      "password": "a@a.a",
+      "phone": "+1 (942) 477-2273",
+      "isVip": false,
+      "money": 420,
+      "isAdmin": false
+    },
+    {
+      "id": "70ad681a-75b0-4f05-8f80-cd5f36de57df",
+      "isActive": true,
+      "imageUrl": "https://picsum.photos/200/300?random=4",
+      "name": "Silva Patton",
+      "email": "silvapatton@caxt.com",
+      "password": "a@a.a",
+      "phone": "+1 (941) 545-2163",
+      "isVip": false,
+      "money": 689.66,
+      "isAdmin": false
+    },
+    {
+      "id": "7cb88485-534b-4f61-a8e3-07a7fa3bd47f",
+      "isActive": true,
+      "imageUrl": "https://picsum.photos/200/300?random=5",
+      "name": "Bertha Gray",
+      "email": "berthagray@caxt.com",
+      "password": "a@a.a",
+      "phone": "+1 (861) 443-2680",
+      "isVip": false,
+      "money": 1000,
+      "isAdmin": false
+    },
+    {
+      "imageUrl": " https://picsum.photos/200/300?random=0.796556609242159",
+      "name": "test@test.test",
+      "email": "test@test.test",
+      "phone": "test@test.test",
+      "password": "test@test.test",
+      "isVip": true,
+      "money": 9992.76,
+      "id": "3NZDb6-",
+      "isActive": true
+    },
+    {
+      "imageUrl": " https://picsum.photos/200/300?random=0.26882945447363493",
+      "name": "q@q.q",
+      "email": "q@q.q",
+      "phone": "1234567899",
+      "password": "q@q.q",
+      "isVip": false,
+      "money": 23,
+      "isActive": true,
+      "isAdmin": false,
+      "id": "5j-XhuI"
+    }
+  ],
+  "cars": [
+    {
+      "id": "6230608a-e4df-445b-bba5-15ed70a197fb",
+      "isActive": true,
+      "imageUrl": "https://www.nastarta.com/wp-content/uploads/2019/05/5b08aa21-ferrari-sf90-stradale-2.jpg",
+      "brand": "Ferrari",
+      "model": "Golf",
+      "constructionYear": "2018-07-26",
+      "type": "SUV",
+      "fuelType": "Petrol",
+      "seatsCount": "23",
+      "pricePerDay": 100,
+      "count": 9,
+      "ownerId": "f529a9c7-b5bb-4d3c-a451-825c03b12013",
+      "carInfo": "Ferrari - Golf"
+    },
+    {
+      "id": "e9b82c0f-9ea0-4cc4-a84f-a1b9992349b2",
+      "isActive": true,
+      "imageUrl": "https://automedia.investor.bg//media/files/resized/article/w1200x630/2d1/9ad87478c7c4aa258c0be4d35b31d2d1-ferrari-sf90-stradale-2020-800-02.jpg",
+      "brand": "Ferrari",
+      "model": "C180",
+      "constructionYear": "2014-06-09",
+      "type": "Luxury",
+      "fuelType": "Petrol",
+      "seatsCount": 4,
+      "pricePerDay": 670.77,
+      "count": 4,
+      "ownerId": "f529a9c7-b5bb-4d3c-a451-825c03b12013",
+      "carInfo": "Ferrari - C180"
+    },
+    {
+      "id": "314e4bee-a260-40dc-823a-e5e253eba2c0",
+      "isActive": true,
+      "imageUrl": "https://autobild.bg/wp-content/uploads/2019/10/1200px-VW_Golf_IV_1.6_1997%E2%80%932003_front_MJ.jpg",
+      "brand": "VW",
+      "model": "C180",
+      "constructionYear": "2020-05-24",
+      "type": "Estate",
+      "fuelType": "Petrol",
+      "seatsCount": 5,
+      "pricePerDay": 270.11,
+      "count": 3,
+      "ownerId": "c5a4e854-9689-4eb0-979a-12212d838d2b",
+      "carInfo": "VW - C180"
+    },
+    {
+      "isActive": false,
+      "imageUrl": "",
+      "brand": "isEdit",
+      "model": "isEdit",
+      "constructionYear": "2004-04-04",
+      "type": "",
+      "seatsCount": "4",
+      "pricePerDay": "4",
+      "count": 2,
+      "id": "A5dDiED",
+      "carInfo": "isEdit - isEdit"
+    },
+    {
+      "isActive": true,
+      "imageUrl": "",
+      "brand": "Nova kola",
+      "model": "Nov",
+      "constructionYear": "2022-05-23",
+      "type": "Luxury",
+      "fuelType": "Diesel",
+      "seatsCount": "12",
+      "pricePerDay": "1",
+      "count": 100,
+      "ownerId": "f529a9c7-b5bb-4d3c-a451-825c03b12013",
+      "id": "p-zYoPL",
+      "carInfo": "Nova kola - Nov"
+    }
+  ],
+  "rentals": [
+    {
+      "id": "asdfa9c7-b5bb-4d3c-a451-825c03b12987",
+      "userId": "3NZDb6-",
+      "carId": "A5dDiED",
+      "startDate": "2022-05-29",
+      "endDate": "2022-05-29",
+      "status": "Returned",
+      "totalCost": 100
+    },
+    {
+      "userId": "3NZDb6-",
+      "carId": "6230608a-e4df-445b-bba5-15ed70a197fb",
+      "startDate": "2022-05-29",
+      "endDate": "2022-05-29",
+      "status": "Returned",
+      "totalCost": 100,
+      "id": "16VDWZx"
+    },
+    {
+      "userId": "3NZDb6-",
+      "carId": "6230608a-e4df-445b-bba5-15ed70a197fb",
+      "startDate": "2022-05-29",
+      "endDate": "2022-05-29",
+      "status": "Returned",
+      "totalCost": 100,
+      "id": "bpHwmZO"
+    },
+    {
+      "userId": "8G1qQfP",
+      "carId": "6230608a-e4df-445b-bba5-15ed70a197fb",
+      "startDate": "2022-05-29",
+      "endDate": "2022-05-29",
+      "status": "In use",
+      "totalCost": 100,
+      "id": "T5RAXzT"
+    },
+    {
+      "userId": "8G1qQfP",
+      "carId": "6230608a-e4df-445b-bba5-15ed70a197fb",
+      "startDate": "2022-05-29",
+      "endDate": "2022-05-29",
+      "status": "Returned",
+      "totalCost": 100,
+      "id": "Rizyy8E"
+    },
+    {
+      "userId": "8G1qQfP",
+      "carId": "6230608a-e4df-445b-bba5-15ed70a197fb",
+      "startDate": "2022-05-27",
+      "endDate": "2022-05-28",
+      "status": "In use",
+      "totalCost": 100,
+      "id": "ixqsCgS"
+    },
+    {
+      "userId": "8G1qQfP",
+      "carId": "6230608a-e4df-445b-bba5-15ed70a197fb",
+      "startDate": "2022-06-05",
+      "endDate": "2022-06-07",
+      "status": "Returned",
+      "totalCost": 300,
+      "id": "xisEeRV"
+    },
+    {
+      "userId": "8G1qQfP",
+      "carId": "314e4bee-a260-40dc-823a-e5e253eba2c0",
+      "startDate": "2022-05-29",
+      "endDate": "2022-05-29",
+      "status": "Returned",
+      "totalCost": 270.11,
+      "id": "hfTT6_Z"
+    },
+    {
+      "userId": "8G1qQfP",
+      "carId": "6230608a-e4df-445b-bba5-15ed70a197fb",
+      "startDate": "2022-05-29",
+      "endDate": "2022-05-29",
+      "status": "Returned",
+      "totalCost": 100,
+      "id": "mzxJBdE"
+    },
+    {
+      "userId": "8G1qQfP",
+      "carId": "6230608a-e4df-445b-bba5-15ed70a197fb",
+      "startDate": "2022-06-05",
+      "endDate": "2022-06-05",
+      "status": "Returned",
+      "totalCost": 100,
+      "id": "IST3-hG"
+    },
+    {
+      "userId": "8G1qQfP",
+      "carId": "e9b82c0f-9ea0-4cc4-a84f-a1b9992349b2",
+      "startDate": "2022-05-29",
+      "endDate": "2022-06-05",
+      "status": "Returned",
+      "totalCost": 4990.5288,
+      "id": "1Q_IHlT"
+    },
+    {
+      "userId": "8G1qQfP",
+      "carId": "e9b82c0f-9ea0-4cc4-a84f-a1b9992349b2",
+      "startDate": "2022-05-29",
+      "endDate": "2022-05-29",
+      "status": "Returned",
+      "totalCost": 670.77,
+      "id": "pj3ZZvG"
+    },
+    {
+      "userId": "8G1qQfP",
+      "carId": "6230608a-e4df-445b-bba5-15ed70a197fb",
+      "startDate": "2022-05-30",
+      "endDate": "2022-05-30",
+      "status": "Returned",
+      "totalCost": 100,
+      "id": "MhIlwkE"
+    },
+    {
+      "userId": "8G1qQfP",
+      "carId": "6230608a-e4df-445b-bba5-15ed70a197fb",
+      "startDate": "2022-05-29",
+      "endDate": "2022-05-29",
+      "status": "Returned",
+      "totalCost": 100,
+      "id": "QfSgPae"
+    },
+    {
+      "userId": "8G1qQfP",
+      "carId": "6230608a-e4df-445b-bba5-15ed70a197fb",
+      "startDate": "2022-05-29",
+      "endDate": "2022-05-29",
+      "status": "In use",
+      "totalCost": 100,
+      "id": "CWbsjp6"
+    },
+    {
+      "userId": "8G1qQfP",
+      "carId": "6230608a-e4df-445b-bba5-15ed70a197fb",
+      "startDate": "2022-05-29",
+      "endDate": "2022-06-05",
+      "status": "In use",
+      "totalCost": 744,
+      "id": "R0Fr8VG"
+    },
+    {
+      "userId": "5j-XhuI",
+      "carId": "6230608a-e4df-445b-bba5-15ed70a197fb",
+      "startDate": "2022-06-01",
+      "endDate": "2022-06-01",
+      "status": "Returned",
+      "totalCost": 100,
+      "id": "xIJKVDd"
+    }
   ]
-  
 }
